@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mihaidragosradu/burgerapp.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mihaidragosradu/burgerapp.git/static/js/main.dd8607fe.chunk.js",
+    "main.js.map": "/mihaidragosradu/burgerapp.git/static/js/main.dd8607fe.chunk.js.map",
+    "runtime-main.js": "/mihaidragosradu/burgerapp.git/static/js/runtime-main.750e8017.js",
+    "runtime-main.js.map": "/mihaidragosradu/burgerapp.git/static/js/runtime-main.750e8017.js.map",
+    "static/js/2.f372a43e.chunk.js": "/mihaidragosradu/burgerapp.git/static/js/2.f372a43e.chunk.js",
+    "static/js/2.f372a43e.chunk.js.map": "/mihaidragosradu/burgerapp.git/static/js/2.f372a43e.chunk.js.map",
+    "index.html": "/mihaidragosradu/burgerapp.git/index.html",
+    "precache-manifest.164983359de5be17b3b66eb9c3936239.js": "/mihaidragosradu/burgerapp.git/precache-manifest.164983359de5be17b3b66eb9c3936239.js",
+    "service-worker.js": "/mihaidragosradu/burgerapp.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mihaidragosradu/burgerapp.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f372a43e.chunk.js.LICENSE.txt": "/mihaidragosradu/burgerapp.git/static/js/2.f372a43e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mihaidragosradu/burgerapp.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.750e8017.js",
+    "static/js/2.f372a43e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dd8607fe.chunk.js"
+  ]
+}
